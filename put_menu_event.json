@@ -1,0 +1,11 @@
+{
+    "menu_id": "4",
+    "selection": [
+        "Cherry",
+        "Apple",
+        "Strawberry"
+    ],
+    "size": [
+        "XS", "XM", "L", "XL", "XXL"
+    ]
+}
