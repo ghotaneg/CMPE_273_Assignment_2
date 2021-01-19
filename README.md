@@ -1,3 +1,1 @@
-# CMPE_273_Assignment_2
-
-This repository consists all the lambda functions used to solve the assignment 2.
+This repository consists of all the lambda functions used to read and write data in JSON format to and from DynamoDB.
